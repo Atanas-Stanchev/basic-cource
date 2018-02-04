@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\P\obj\Debug\P.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\P\obj\Debug\P.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\P\bin\Debug\P.exe.config
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\P\bin\Debug\P.exe
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\P\bin\Debug\P.pdb
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\P\obj\Debug\P.exe
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\P\obj\Debug\P.pdb

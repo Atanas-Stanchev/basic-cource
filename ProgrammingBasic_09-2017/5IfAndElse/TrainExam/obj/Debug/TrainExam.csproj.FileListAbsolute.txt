@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\TrainExam\bin\Debug\TrainExam.exe.config
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\TrainExam\bin\Debug\TrainExam.exe
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\TrainExam\bin\Debug\TrainExam.pdb
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\TrainExam\obj\Debug\TrainExam.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\TrainExam\obj\Debug\TrainExam.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\TrainExam\obj\Debug\TrainExam.exe
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\TrainExam\obj\Debug\TrainExam.pdb

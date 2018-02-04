@@ -1,0 +1,10 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\WindowsFormsApp2\obj\Debug\CatchThe Button.csproj.GenerateResource.Cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\WindowsFormsApp2\obj\Debug\CatchThe Button.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\WindowsFormsApp2\obj\Debug\CatchThe Button.csprojResolveAssemblyReference.cache

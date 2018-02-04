@@ -1,0 +1,10 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\BGN-to-EUR-Converter.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\CurrencyConverterAPP.FormConverter.resources
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\CurrencyConverterAPP.Properties.Resources.resources
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\BGN-to-EUR-Converter.csproj.GenerateResource.Cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\BGN-to-EUR-Converter.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\bin\Debug\CurrencyConverterAPP.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\bin\Debug\CurrencyConverterAPP.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\bin\Debug\CurrencyConverterAPP.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\CurrencyConverterAPP.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\CurrencyConverterAPP.pdb

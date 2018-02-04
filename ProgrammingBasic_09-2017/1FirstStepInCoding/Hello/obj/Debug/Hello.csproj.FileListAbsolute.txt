@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Hello\bin\Debug\Hello.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Hello\bin\Debug\Hello.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Hello\bin\Debug\Hello.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Hello\obj\Debug\Hello.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Hello\obj\Debug\Hello.pdb

@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddSum\bin\Debug\OddSum.exe.config
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddSum\bin\Debug\OddSum.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddSum\bin\Debug\OddSum.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddSum\obj\Debug\OddSum.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddSum\obj\Debug\OddSum.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddSum\obj\Debug\OddSum.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddSum\obj\Debug\OddSum.pdb

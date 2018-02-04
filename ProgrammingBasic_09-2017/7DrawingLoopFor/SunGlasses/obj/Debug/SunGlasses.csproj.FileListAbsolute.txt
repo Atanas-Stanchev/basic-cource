@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SunGlasses\bin\Debug\SunGlasses.exe.config
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SunGlasses\bin\Debug\SunGlasses.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SunGlasses\bin\Debug\SunGlasses.pdb
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SunGlasses\obj\Debug\SunGlasses.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SunGlasses\obj\Debug\SunGlasses.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SunGlasses\obj\Debug\SunGlasses.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SunGlasses\obj\Debug\SunGlasses.pdb

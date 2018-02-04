@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LatinsLetter\bin\Debug\LatinsLetter.exe.config
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LatinsLetter\bin\Debug\LatinsLetter.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LatinsLetter\bin\Debug\LatinsLetter.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LatinsLetter\obj\Debug\LatinsLetter.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LatinsLetter\obj\Debug\LatinsLetter.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LatinsLetter\obj\Debug\LatinsLetter.pdb

@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\TriangleFromDollars\bin\Debug\TriangleFromDollars.exe.config
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\TriangleFromDollars\bin\Debug\TriangleFromDollars.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\TriangleFromDollars\bin\Debug\TriangleFromDollars.pdb
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\TriangleFromDollars\obj\Debug\TriangleFromDollars.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\TriangleFromDollars\obj\Debug\TriangleFromDollars.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\TriangleFromDollars\obj\Debug\TriangleFromDollars.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\TriangleFromDollars\obj\Debug\TriangleFromDollars.pdb

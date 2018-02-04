@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SquareArea\obj\Debug\SquareArea.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SquareArea\obj\Debug\SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SquareArea\bin\Debug\SquareArea.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SquareArea\bin\Debug\SquareArea.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SquareArea\bin\Debug\SquareArea.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SquareArea\obj\Debug\SquareArea.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SquareArea\obj\Debug\SquareArea.pdb

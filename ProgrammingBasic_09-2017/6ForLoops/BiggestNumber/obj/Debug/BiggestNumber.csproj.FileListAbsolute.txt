@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\ForLoops\BiggestNumber\bin\Debug\BiggestNumber.exe.config
+C:\Users\obedn\Desktop\ForLoops\ForLoops\BiggestNumber\bin\Debug\BiggestNumber.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\BiggestNumber\bin\Debug\BiggestNumber.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\BiggestNumber\obj\Debug\BiggestNumber.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\BiggestNumber\obj\Debug\BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\BiggestNumber\obj\Debug\BiggestNumber.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\BiggestNumber\obj\Debug\BiggestNumber.pdb

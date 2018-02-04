@@ -1,0 +1,5 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\FirstForms\obj\Debug\FirstForms.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\FirstForms\obj\Debug\FirstForms.Form1.resources
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\FirstForms\obj\Debug\FirstForms.Properties.Resources.resources
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\FirstForms\obj\Debug\FirstForms.csproj.GenerateResource.Cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\FirstForms\obj\Debug\FirstForms.csproj.CoreCompileInputs.cache

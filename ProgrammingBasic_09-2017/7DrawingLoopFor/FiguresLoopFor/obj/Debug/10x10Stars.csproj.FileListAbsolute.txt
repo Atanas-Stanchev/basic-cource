@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\FiguresLoopFor\bin\Debug\FiguresLoopFor.exe.config
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\FiguresLoopFor\bin\Debug\FiguresLoopFor.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\FiguresLoopFor\bin\Debug\FiguresLoopFor.pdb
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\FiguresLoopFor\obj\Debug\10x10Stars.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\FiguresLoopFor\obj\Debug\10x10Stars.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\FiguresLoopFor\obj\Debug\FiguresLoopFor.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\FiguresLoopFor\obj\Debug\FiguresLoopFor.pdb

@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\55StarsFor\bin\Debug\55StarsFor.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\55StarsFor\bin\Debug\55StarsFor.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\55StarsFor\bin\Debug\55StarsFor.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\55StarsFor\obj\Debug\55StarsFor.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\55StarsFor\obj\Debug\55StarsFor.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\55StarsFor\obj\Debug\55StarsFor.pdb

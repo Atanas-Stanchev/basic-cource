@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\CubeFromStrings\bin\Debug\CubeFromStrings.exe.config
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\CubeFromStrings\bin\Debug\CubeFromStrings.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\CubeFromStrings\bin\Debug\CubeFromStrings.pdb
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\CubeFromStrings\obj\Debug\CubeFromStrings.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\CubeFromStrings\obj\Debug\CubeFromStrings.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\CubeFromStrings\obj\Debug\CubeFromStrings.pdb

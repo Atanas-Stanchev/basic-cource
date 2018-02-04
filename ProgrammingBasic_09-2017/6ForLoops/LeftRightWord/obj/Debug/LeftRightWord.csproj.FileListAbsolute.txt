@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LeftRightWord\bin\Debug\LeftRightWord.exe.config
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LeftRightWord\bin\Debug\LeftRightWord.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LeftRightWord\bin\Debug\LeftRightWord.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LeftRightWord\obj\Debug\LeftRightWord.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LeftRightWord\obj\Debug\LeftRightWord.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LeftRightWord\obj\Debug\LeftRightWord.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\LeftRightWord\obj\Debug\LeftRightWord.csprojResolveAssemblyReference.cache

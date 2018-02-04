@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\`TriangleOf555Stars\bin\Debug\`TriangleOf555Stars.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\`TriangleOf555Stars\bin\Debug\`TriangleOf555Stars.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\`TriangleOf555Stars\bin\Debug\`TriangleOf555Stars.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\`TriangleOf555Stars\obj\Debug\`TriangleOf555Stars.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\`TriangleOf555Stars\obj\Debug\`TriangleOf555Stars.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\`TriangleOf555Stars\obj\Debug\`TriangleOf555Stars.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\`TriangleOf555Stars\obj\Debug\`TriangleOf555Stars.csprojResolveAssemblyReference.cache

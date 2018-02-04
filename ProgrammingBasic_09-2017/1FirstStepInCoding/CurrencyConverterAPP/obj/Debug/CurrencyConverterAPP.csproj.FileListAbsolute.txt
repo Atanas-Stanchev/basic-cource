@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\CurrencyConverterAPP.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\CurrencyConverterAPP.Form1.resources
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\CurrencyConverterAPP.Properties.Resources.resources
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\CurrencyConverterAPP.csproj.GenerateResource.Cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\CurrencyConverterAPP.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CurrencyConverterAPP\obj\Debug\CurrencyConverterAPP.FormConverter.resources

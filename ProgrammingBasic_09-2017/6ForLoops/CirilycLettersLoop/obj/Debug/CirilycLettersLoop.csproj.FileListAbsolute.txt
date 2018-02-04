@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\ForLoops\ForLoops\CirilycLettersLoop\bin\Debug\CirilycLettersLoop.exe.config
+C:\Users\obedn\Desktop\ForLoops\ForLoops\CirilycLettersLoop\bin\Debug\CirilycLettersLoop.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\CirilycLettersLoop\bin\Debug\CirilycLettersLoop.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\CirilycLettersLoop\obj\Debug\CirilycLettersLoop.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\CirilycLettersLoop\obj\Debug\CirilycLettersLoop.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\CirilycLettersLoop\obj\Debug\CirilycLettersLoop.pdb

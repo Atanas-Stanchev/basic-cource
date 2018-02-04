@@ -1,0 +1,9 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\ApplicationDesign\obj\Debug\ApplicationDesign.Form1.resources
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\ApplicationDesign\obj\Debug\ApplicationDesign.Properties.Resources.resources
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\ApplicationDesign\obj\Debug\ApplicationDesign.csproj.GenerateResource.Cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\ApplicationDesign\obj\Debug\ApplicationDesign.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\ApplicationDesign\bin\Debug\ApplicationDesign.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\ApplicationDesign\bin\Debug\ApplicationDesign.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\ApplicationDesign\bin\Debug\ApplicationDesign.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\ApplicationDesign\obj\Debug\ApplicationDesign.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\ApplicationDesign\obj\Debug\ApplicationDesign.pdb

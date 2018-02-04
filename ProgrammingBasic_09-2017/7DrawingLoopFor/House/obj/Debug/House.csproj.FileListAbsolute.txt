@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\House\bin\Debug\House.exe.config
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\House\bin\Debug\House.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\House\bin\Debug\House.pdb
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\House\obj\Debug\House.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\House\obj\Debug\House.pdb

@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumNumbers\bin\Debug\SumNumbers.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumNumbers\bin\Debug\SumNumbers.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumNumbers\obj\Debug\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumNumbers\obj\Debug\SumNumbers.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumNumbers\obj\Debug\SumNumbers.pdb

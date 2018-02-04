@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddEven_Position\obj\Debug\OddEven_Position.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddEven_Position\bin\Debug\OddEven_Position.exe.config
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddEven_Position\bin\Debug\OddEven_Position.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddEven_Position\bin\Debug\OddEven_Position.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddEven_Position\obj\Debug\OddEven_Position.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddEven_Position\obj\Debug\OddEven_Position.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\OddEven_Position\obj\Debug\OddEven_Position.csprojResolveAssemblyReference.cache

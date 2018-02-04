@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleExpressions\bin\Debug\SimpleExpressions.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleExpressions\bin\Debug\SimpleExpressions.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleExpressions\bin\Debug\SimpleExpressions.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleExpressions\obj\Debug\SimpleExpressions.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleExpressions\obj\Debug\SimpleExpressions.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleExpressions\obj\Debug\SimpleExpressions.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleExpressions\obj\Debug\SimpleExpressions.pdb

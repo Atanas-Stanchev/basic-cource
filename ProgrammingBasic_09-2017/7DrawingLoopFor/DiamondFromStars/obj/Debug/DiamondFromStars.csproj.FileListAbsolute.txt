@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\DiamondFromStars\bin\Debug\DiamondFromStars.exe.config
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\DiamondFromStars\bin\Debug\DiamondFromStars.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\DiamondFromStars\bin\Debug\DiamondFromStars.pdb
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\DiamondFromStars\obj\Debug\DiamondFromStars.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\DiamondFromStars\obj\Debug\DiamondFromStars.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\DiamondFromStars\obj\Debug\DiamondFromStars.pdb
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\DiamondFromStars\obj\Debug\DiamondFromStars.csprojResolveAssemblyReference.cache

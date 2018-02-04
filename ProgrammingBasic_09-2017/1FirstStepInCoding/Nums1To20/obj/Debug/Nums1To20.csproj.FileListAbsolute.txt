@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Nums1To20\bin\Debug\Nums1To20.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Nums1To20\bin\Debug\Nums1To20.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Nums1To20\bin\Debug\Nums1To20.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Nums1To20\obj\Debug\Nums1To20.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Nums1To20\obj\Debug\Nums1To20.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Nums1To20\obj\Debug\Nums1To20.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Nums1To20\obj\Debug\Nums1To20.csprojResolveAssemblyReference.cache

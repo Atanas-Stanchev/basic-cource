@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SquareFromStars\bin\Debug\SquareFromStars.exe.config
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SquareFromStars\bin\Debug\SquareFromStars.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SquareFromStars\bin\Debug\SquareFromStars.pdb
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SquareFromStars\obj\Debug\SquareFromStars.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SquareFromStars\obj\Debug\SquareFromStars.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\SquareFromStars\obj\Debug\SquareFromStars.pdb

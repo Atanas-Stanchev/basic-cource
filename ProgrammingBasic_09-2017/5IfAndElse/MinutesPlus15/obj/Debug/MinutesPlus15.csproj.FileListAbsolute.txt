@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\MinutesPlus15\bin\Debug\MinutesPlus15.exe.config
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\MinutesPlus15\bin\Debug\MinutesPlus15.exe
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\MinutesPlus15\bin\Debug\MinutesPlus15.pdb
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\MinutesPlus15\obj\Debug\MinutesPlus15.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\MinutesPlus15\obj\Debug\MinutesPlus15.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\MinutesPlus15\obj\Debug\MinutesPlus15.exe
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\MinutesPlus15\obj\Debug\MinutesPlus15.pdb

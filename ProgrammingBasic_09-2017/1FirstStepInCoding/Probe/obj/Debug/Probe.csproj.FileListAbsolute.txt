@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Probe\bin\Debug\Probe.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Probe\bin\Debug\Probe.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Probe\bin\Debug\Probe.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Probe\obj\Debug\Probe.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Probe\obj\Debug\Probe.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Probe\obj\Debug\Probe.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\Probe\obj\Debug\Probe.pdb

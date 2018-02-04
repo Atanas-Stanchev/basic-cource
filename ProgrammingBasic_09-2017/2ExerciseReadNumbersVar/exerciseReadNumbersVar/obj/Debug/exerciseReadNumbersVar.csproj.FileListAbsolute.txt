@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\exerciseReadNumbersVar\exerciseReadNumbersVar\bin\Debug\exerciseReadNumbersVar.exe.config
+C:\Users\obedn\Desktop\C#\exerciseReadNumbersVar\exerciseReadNumbersVar\bin\Debug\exerciseReadNumbersVar.exe
+C:\Users\obedn\Desktop\C#\exerciseReadNumbersVar\exerciseReadNumbersVar\bin\Debug\exerciseReadNumbersVar.pdb
+C:\Users\obedn\Desktop\C#\exerciseReadNumbersVar\exerciseReadNumbersVar\obj\Debug\exerciseReadNumbersVar.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\exerciseReadNumbersVar\exerciseReadNumbersVar\obj\Debug\exerciseReadNumbersVar.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\exerciseReadNumbersVar\exerciseReadNumbersVar\obj\Debug\exerciseReadNumbersVar.exe
+C:\Users\obedn\Desktop\C#\exerciseReadNumbersVar\exerciseReadNumbersVar\obj\Debug\exerciseReadNumbersVar.pdb

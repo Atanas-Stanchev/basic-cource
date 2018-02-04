@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleConsition\bin\Debug\SimpleConsition.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleConsition\bin\Debug\SimpleConsition.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleConsition\bin\Debug\SimpleConsition.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleConsition\obj\Debug\SimpleConditionIElseIf.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleConsition\obj\Debug\SimpleConditionIElseIf.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleConsition\obj\Debug\SimpleConsition.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\SimpleConsition\obj\Debug\SimpleConsition.pdb

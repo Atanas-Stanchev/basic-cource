@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\DanceCenter\bin\Debug\DanceCenter.exe.config
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\DanceCenter\bin\Debug\DanceCenter.exe
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\DanceCenter\bin\Debug\DanceCenter.pdb
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\DanceCenter\obj\Debug\DanceCenter.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\DanceCenter\obj\Debug\DanceCenter.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\DanceCenter\obj\Debug\DanceCenter.exe
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\DanceCenter\obj\Debug\DanceCenter.pdb

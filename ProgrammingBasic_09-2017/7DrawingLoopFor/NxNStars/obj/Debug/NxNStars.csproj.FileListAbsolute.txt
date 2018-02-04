@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\NxNStars\bin\Debug\NxNStars.exe.config
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\NxNStars\bin\Debug\NxNStars.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\NxNStars\bin\Debug\NxNStars.pdb
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\NxNStars\obj\Debug\NxNStars.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\NxNStars\obj\Debug\NxNStars.exe
+C:\Users\obedn\Desktop\ForLoops\FiguresLoopFor\NxNStars\obj\Debug\NxNStars.pdb

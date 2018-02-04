@@ -1,0 +1,5 @@
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\PointAndAectangle\obj\Debug\PointAndAectangle.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\PointAndAectangle\obj\Debug\PointAndAectangle.FormPointAndRectangle.resources
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\PointAndAectangle\obj\Debug\PointAndAectangle.Properties.Resources.resources
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\PointAndAectangle\obj\Debug\PointAndAectangle.csproj.GenerateResource.Cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\PointAndAectangle\obj\Debug\PointAndAectangle.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CubeStars\bin\Debug\CubeStars.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CubeStars\bin\Debug\CubeStars.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CubeStars\bin\Debug\CubeStars.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CubeStars\obj\Debug\CubeStars.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CubeStars\obj\Debug\CubeStars.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CubeStars\obj\Debug\CubeStars.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\CubeStars\obj\Debug\CubeStars.pdb

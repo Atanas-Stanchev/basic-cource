@@ -1,0 +1,10 @@
+D:\Aleksandar\Documents\_ALEX\_DOCS\_HOME\_Development\_SoftUni\repos\2017-10-28---Conditions\PointAndRectangle\bin\Debug\PointAndRectangle.exe.config
+D:\Aleksandar\Documents\_ALEX\_DOCS\_HOME\_Development\_SoftUni\repos\2017-10-28---Conditions\PointAndRectangle\bin\Debug\PointAndRectangle.exe
+D:\Aleksandar\Documents\_ALEX\_DOCS\_HOME\_Development\_SoftUni\repos\2017-10-28---Conditions\PointAndRectangle\bin\Debug\PointAndRectangle.pdb
+D:\Aleksandar\Documents\_ALEX\_DOCS\_HOME\_Development\_SoftUni\repos\2017-10-28---Conditions\PointAndRectangle\obj\Debug\PointAndRectangle.csprojResolveAssemblyReference.cache
+D:\Aleksandar\Documents\_ALEX\_DOCS\_HOME\_Development\_SoftUni\repos\2017-10-28---Conditions\PointAndRectangle\obj\Debug\PointAndRectangle.FormPointAndRectangle.resources
+D:\Aleksandar\Documents\_ALEX\_DOCS\_HOME\_Development\_SoftUni\repos\2017-10-28---Conditions\PointAndRectangle\obj\Debug\PointAndRectangle.Properties.Resources.resources
+D:\Aleksandar\Documents\_ALEX\_DOCS\_HOME\_Development\_SoftUni\repos\2017-10-28---Conditions\PointAndRectangle\obj\Debug\PointAndRectangle.csproj.GenerateResource.Cache
+D:\Aleksandar\Documents\_ALEX\_DOCS\_HOME\_Development\_SoftUni\repos\2017-10-28---Conditions\PointAndRectangle\obj\Debug\PointAndRectangle.csproj.CoreCompileInputs.cache
+D:\Aleksandar\Documents\_ALEX\_DOCS\_HOME\_Development\_SoftUni\repos\2017-10-28---Conditions\PointAndRectangle\obj\Debug\PointAndRectangle.exe
+D:\Aleksandar\Documents\_ALEX\_DOCS\_HOME\_Development\_SoftUni\repos\2017-10-28---Conditions\PointAndRectangle\obj\Debug\PointAndRectangle.pdb

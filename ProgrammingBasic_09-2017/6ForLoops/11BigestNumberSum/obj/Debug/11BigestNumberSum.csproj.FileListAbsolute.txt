@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\ForLoops\11BigestNumberSum\bin\Debug\11BigestNumberSum.exe.config
+C:\Users\obedn\Desktop\ForLoops\ForLoops\11BigestNumberSum\bin\Debug\11BigestNumberSum.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\11BigestNumberSum\bin\Debug\11BigestNumberSum.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\11BigestNumberSum\obj\Debug\11BigestNumberSum.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\11BigestNumberSum\obj\Debug\11BigestNumberSum.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\11BigestNumberSum\obj\Debug\11BigestNumberSum.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\11BigestNumberSum\obj\Debug\11BigestNumberSum.csprojResolveAssemblyReference.cache

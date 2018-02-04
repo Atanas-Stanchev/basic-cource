@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumW\bin\Debug\SumW.exe.config
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumW\bin\Debug\SumW.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumW\bin\Debug\SumW.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumW\obj\Debug\SumwOrds.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumW\obj\Debug\SumwOrds.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumW\obj\Debug\SumW.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SumW\obj\Debug\SumW.pdb

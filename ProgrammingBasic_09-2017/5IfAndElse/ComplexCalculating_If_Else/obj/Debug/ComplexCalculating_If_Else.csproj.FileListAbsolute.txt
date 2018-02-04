@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\ComplexCalculating_If_Else\bin\Debug\ComplexCalculating_If_Else.exe.config
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\ComplexCalculating_If_Else\bin\Debug\ComplexCalculating_If_Else.exe
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\ComplexCalculating_If_Else\bin\Debug\ComplexCalculating_If_Else.pdb
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\ComplexCalculating_If_Else\obj\Debug\ComplexCalculating_If_Else.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\ComplexCalculating_If_Else\obj\Debug\ComplexCalculating_If_Else.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\ComplexCalculating_If_Else\obj\Debug\ComplexCalculating_If_Else.exe
+C:\Users\obedn\Desktop\C#\Exercises\PracticeExercises\ComplexCalculating_If_Else\obj\Debug\ComplexCalculating_If_Else.pdb

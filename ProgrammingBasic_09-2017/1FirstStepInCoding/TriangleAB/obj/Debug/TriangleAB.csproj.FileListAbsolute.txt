@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\TriangleAB\obj\Debug\TriangleAB.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\TriangleAB\bin\Debug\TriangleAB.exe.config
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\TriangleAB\bin\Debug\TriangleAB.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\TriangleAB\bin\Debug\TriangleAB.pdb
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\TriangleAB\obj\Debug\TriangleAB.exe
+C:\Users\obedn\Desktop\C#\Class1\FirstStepsInCoding\TriangleAB\obj\Debug\TriangleAB.pdb

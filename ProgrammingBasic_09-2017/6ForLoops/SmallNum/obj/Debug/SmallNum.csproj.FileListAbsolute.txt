@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SmallNum\bin\Debug\SmallNum.exe.config
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SmallNum\bin\Debug\SmallNum.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SmallNum\bin\Debug\SmallNum.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SmallNum\obj\Debug\SmallNum.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SmallNum\obj\Debug\SmallNum.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SmallNum\obj\Debug\SmallNum.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\SmallNum\obj\Debug\SmallNum.pdb

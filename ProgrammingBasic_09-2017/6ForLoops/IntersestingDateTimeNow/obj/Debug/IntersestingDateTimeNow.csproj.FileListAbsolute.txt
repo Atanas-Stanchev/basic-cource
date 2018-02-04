@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\ForLoops\ForLoops\IntersestingDateTimeNow\bin\Debug\IntersestingDateTimeNow.exe.config
+C:\Users\obedn\Desktop\ForLoops\ForLoops\IntersestingDateTimeNow\bin\Debug\IntersestingDateTimeNow.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\IntersestingDateTimeNow\bin\Debug\IntersestingDateTimeNow.pdb
+C:\Users\obedn\Desktop\ForLoops\ForLoops\IntersestingDateTimeNow\obj\Debug\IntersestingDateTimeNow.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\IntersestingDateTimeNow\obj\Debug\IntersestingDateTimeNow.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\ForLoops\ForLoops\IntersestingDateTimeNow\obj\Debug\IntersestingDateTimeNow.exe
+C:\Users\obedn\Desktop\ForLoops\ForLoops\IntersestingDateTimeNow\obj\Debug\IntersestingDateTimeNow.pdb
